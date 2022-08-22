@@ -1,0 +1,6 @@
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\BusinessLayerCustomer\bin\Debug\BusinessLayerCustomer.dll
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\BusinessLayerCustomer\bin\Debug\BusinessLayerCustomer.pdb
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\BusinessLayerCustomer\obj\Debug\BusinessLayerCustomer.csproj.AssemblyReference.cache
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\BusinessLayerCustomer\obj\Debug\BusinessLayerCustomer.csproj.CoreCompileInputs.cache
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\BusinessLayerCustomer\obj\Debug\BusinessLayerCustomer.dll
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\BusinessLayerCustomer\obj\Debug\BusinessLayerCustomer.pdb
