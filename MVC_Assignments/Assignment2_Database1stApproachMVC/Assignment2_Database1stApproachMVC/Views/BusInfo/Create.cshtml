@@ -1,0 +1,79 @@
+﻿@model Assignment2_Database1stApproachMVC.Models.BusInfo
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<style>
+    body{
+        background-color:darkgray;
+    }
+</style>
+
+<h1 class="text-center text-danger">PKR Travel</h1>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h3 class="text-center text-danger">Add New Bus</h3>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.BoardingPoint, htmlAttributes: new { @class = "control-label col-sm-5" })
+            <div class="col-sm-5">
+                
+                @Html.DropDownList("BoardingPoint", new List<SelectListItem>{
+               new SelectListItem{Text = "--select--", Value ="select"},
+                new SelectListItem { Text = "BANGLORE",Value="BGL"},
+                new SelectListItem { Text = "CHENNAI",Value="CHN"},
+                new SelectListItem { Text = "HYDERABAD", Value = "HYD" },
+                new SelectListItem { Text = "MUMBAI", Value = "MUM" },
+                new SelectListItem { Text = "PUNE", Value = "PUN" }
+
+             })
+                @Html.ValidationMessageFor(model => model.BoardingPoint, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TravelDate, htmlAttributes: new { @class = "control-label col-sm-5" })
+            <div class="col-sm-5">
+                @Html.EditorFor(model => model.TravelDate, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TravelDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Amount, htmlAttributes: new { @class = "control-label col-sm-5" })
+            <div class="col-sm-5">
+                @Html.EditorFor(model => model.Amount, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Amount, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Rating, htmlAttributes: new { @class = "control-label col-sm-5" })
+            <div class="col-sm-5">
+                @Html.EditorFor(model => model.Rating, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Rating, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-5 col-md-10">
+                <input type="submit" value="Save Bus Data" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "AllBusDetails")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
