@@ -1,0 +1,22 @@
+﻿@model BusinessLayerCustomer.Customer
+
+@{
+    ViewBag.Title = "HomePage";
+}
+
+<h1>Customer Management System</h1>
+<h2>HomePage</h2>
+
+<ul>
+    <li>
+        <h3>@Html.ActionLink("Add customer", "CreateNewCustomer")</h3>
+    </li>
+    <li>
+        <h3>@Html.ActionLink("Customer Details", "Allcustomers")</h3>
+    </li>
+    <li>
+        <h3>@Html.ActionLink("Search", "Search")</h3>
+    </li>
+</ul>
+
+

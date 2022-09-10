@@ -1,0 +1,10 @@
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\bin\Debug\CustomerBusinessLayer.dll.config
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\bin\Debug\CustomerBusinessLayer.dll
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\bin\Debug\CustomerBusinessLayer.pdb
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\obj\Debug\CustomerBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\obj\Debug\CustomerBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\obj\Debug\CustomerBusinessLayer.csproj.CopyComplete
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\obj\Debug\CustomerBusinessLayer.dll
+C:\Users\JANHAVI\source\repos\Assigenment3MVC\CustomerBusinessLayer\obj\Debug\CustomerBusinessLayer.pdb
