@@ -1,0 +1,14 @@
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\DataAccessLayerCustomer.dll.config
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\DataAccessLayerCustomer.dll
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\DataAccessLayerCustomer.pdb
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\BusinessLayerCustomer.dll
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\EntityFramework.dll
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\BusinessLayerCustomer.pdb
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\EntityFramework.xml
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\obj\Debug\DataAccessLayerCustomer.csproj.AssemblyReference.cache
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\obj\Debug\DataAccessLayerCustomer.csproj.CoreCompileInputs.cache
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\obj\Debug\DataAccessLayerCustomer.csproj.CopyComplete
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\obj\Debug\DataAccessLayerCustomer.dll
+C:\Users\JANHAVI\source\repos\Assignment_3_EntityFramework\DataAccessLayerCustomer\obj\Debug\DataAccessLayerCustomer.pdb
