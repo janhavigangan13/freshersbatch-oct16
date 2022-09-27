@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "job":"IT"
+      
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "job":"HR"
+    },
+    {
+      "id": 3,
+      "fullName": "Annie Frank",
+      "job":"Receptionist"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "job":"Manager"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "job":"Owner"
+    }
+  ]
